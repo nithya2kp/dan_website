@@ -1,0 +1,149 @@
+*{
+margin: 0;
+padding: 0;
+}
+.nav-link{
+color: #ffffff;
+font-weight: bold;
+font-size:110%;
+margin-left:3rem;
+}
+.login{
+height: 2.5rem;
+width: 6rem;
+border-color: #ffffff;
+background-color: #00112c;
+border-radius: 0.5rem;
+color: #ffffff;
+font-weight: bold;
+margin-right:3rem;
+}
+#headerimage{
+background-color: #00112c;
+}
+#img{
+max-width:100%;
+height: auto;
+}
+.img1{
+height:1.5rem;
+width:2.5rem;
+padding-right:1rem;
+}
+
+.container3_para{
+padding-left:2rem;
+}
+#btn_primary1{
+background-color: #ffffff;
+border: none;
+text-decoration: none;
+color: #1AAFD0;
+font-weight: bold;
+}
+.btn_banner{
+height:3.5rem;
+width:12rem;
+border-radius:0.5rem;
+margin-bottom: 1rem;
+background-color:#f2f3f4;
+}
+.btn_banner:hover{
+background-color:  #00112c;
+color: #ffffff;
+}
+.btn_banner2{
+background-color:#ffffff;
+height:3.5rem;
+width:12rem;
+border-radius:0.5rem;
+margin-bottom: 1rem;
+}
+.btn_banner2:hover{
+background-color:  #00112c;
+color: #ffffff;
+}
+
+#btn_primary1:hover {text-decoration:underline;}
+#btn_primary2:hover {text-decoration:underline;}
+#btn_primary3:hover {text-decoration:underline;}
+#btn_primary2{
+background-color: #ffffff;
+border: none;
+text-decoration: none;
+color: #1AAFD0;
+font-weight: bold;
+}
+#btn_primary3{
+background-color: #ffffff;
+border: none;
+text-decoration: none;
+color: #1AAFD0;
+font-weight: bold;
+}
+#container3{
+background-color: #f2f3f4;
+}
+#container5{
+background-color: #04294f;
+color: #ffffff;
+}
+#container6{
+background-color: #00112c;
+color: #ffffff;
+}
+#container7{
+background-color: #00112c;
+color: #ffffff;
+}
+#btn_footer{
+border: none;
+background-color: #00112c;
+color: #ffffff;
+}
+.heading{
+color: #ffffff;
+text-decoration: none;
+line-height: 1.5rem;
+}
+.heading:hover{
+color: #38E8B0;
+text-decoration: underline;
+}
+.dropdown-item:hover {background-color: #38E8B0;}
+#search_tag{
+width:40rem;
+height:2rem;
+}
+.dropdown-item1{
+text-decoration: none;
+color:black;
+margin-left:0.5rem;
+font-size:12px;
+font-weight: bold;
+}
+.follow_img{
+height:2.5rem;
+width:2.5rem;
+}
+.follow_img3{
+height:2rem;
+width:2rem;
+}
+.follow_img4{
+height:1.8rem;
+width:1.8rem;
+}
+.follow_img: hover{
+background-color: #38E8B0;
+}
+#search_btn{
+background-color: #38E8B0;
+color:white;
+height:3rem;
+}
+
+
+
+
+
